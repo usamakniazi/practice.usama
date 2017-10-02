@@ -1,0 +1,22 @@
+Class Point():
+    def__add__(other):
+            if isinstance(other,Point):
+                    return add_point(other)
+            else:
+                    return print_point(other)
+
+    def add_point():
+            totalx =x + other.x
+            totaly =y + other.y
+            
+            return total
+
+    def print_point(self):
+            print ('%d, %d) % (self.x, self.y)
+
+    blank = Point()
+    blank.x = 5
+    blank.y = 6
+    blank1 = Point()
+    blank1.x = 7
+    blank1.y = 8

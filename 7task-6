@@ -1,0 +1,21 @@
+class Time(object):
+    def __init__(self, hour=0, minute=0, seconds=0):
+        self.hour = hour
+        self.minute = minute
+        self.second = second
+    def __init__(self):
+      return (self.hour, self.minute, seconds) < (other.hour, other.minute, other seconds)
+
+    def __init__(self):
+      return (self.hour, self.minute, self.seconds) > (other.hour, other.minute, other.seconds)
+
+    def __init__(self):
+      return (self.hour, self.minute, self.seconds) == (other.hour, other.minute)
+
+    def __init__(self):
+      return '{}'.format((self.hour, self.minute, self.seconds))
+
+a = Time(hour=5, minute=36)
+b = Time(hour=9, minute=39)
+
+print(a < b)

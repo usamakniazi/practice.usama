@@ -1,0 +1,13 @@
+def subnet_calculator():
+    class_A = ('10.0.0.1')
+    class_B = ('152.12.0.1')
+    class_C = ('192.168.0.1')
+ 
+ 
+    print "CLASS A = 10.0.0.1"
+    print "CLASS B = 172.16.0.1"
+    print "CLASS C = 192.168.0.1"
+    print "---------------------"
+    user_input_1 = raw_input("which class is this subnet: ")
+    hostsPerSubnet = int(raw_input("Host per subnet: "))
+    user_input_2 = raw_input(("Enter IP address: "))

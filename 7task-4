@@ -1,0 +1,8 @@
+ import ipaddress
+ alt_ip = ipaddress.ip_address(u'10.220.7.273')
+ alt_ip
+IPv4Address(u'10.220.7.273')
+ str(alt_ip)
+'10.220.7.273'
+ my_net.with_netmask
+'10.220.7.273/255.255.255.248'
