@@ -75,3 +75,30 @@ LS
 ls
 cd week-3-usamakniazi/
 ls
+week-3-usamakniazi/
+nano 7task-3
+python 7task-3
+nano 7task-3
+nano 7task-4
+nano 7task-5
+nano 7task-6
+nano 7task-8
+nano 7task-3
+nano 7task-2
+git status
+git add .
+git status
+git commit-m "lab tasks"
+git push
+git status
+git add .
+git status
+git commit-m "lab"
+git commit -m "lab"
+git push
+git push -u origin master
+ls
+cd week-3-usamakniazi/
+git status
+git add .
+git status
