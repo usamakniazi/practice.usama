@@ -102,3 +102,11 @@ cd week-3-usamakniazi/
 git status
 git add .
 git status
+cd ..
+git clone git@github.com:inwk6312fall2017/programming-task-2-usamakniazi.git
+cd 
+cd ..
+cd 
+ls
+cd ..
+nano task2.py
