@@ -110,3 +110,7 @@ cd
 ls
 cd ..
 nano task2.py
+nano miles.py
+miles = 26.2
+miles * 1.61
+miles = 26.2
